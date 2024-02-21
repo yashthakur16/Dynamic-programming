@@ -19,8 +19,6 @@ Currently, the repository includes implementations of the following dynamic prog
 
 Fibonacci Series: Computes the nth Fibonacci number using dynamic programming to avoid redundant calculations.
 
-(Add more algorithms here as you add them to the repository)
-
 Usage
 Each algorithm is implemented in a separate C++ file within the src directory. To use an algorithm, simply compile the corresponding source file using a C++ compiler, such as g++, and execute the compiled binary.
 
