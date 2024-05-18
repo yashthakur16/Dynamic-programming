@@ -69,7 +69,6 @@ int solveT(int n, int x, int y, int z)
 
 }
 
-
 int cutSegments(int n, int x, int y, int z) 
 {
 	vector<int>dp(n+1,-1);
